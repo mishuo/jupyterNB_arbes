@@ -1,0 +1,4 @@
+Data/* filter=lfs diff=lfs merge=lfs -text
+Data/*.* filter=lfs diff=lfs merge=lfs -text
+Data/*.csv filter=lfs diff=lfs merge=lfs -text
+Data/ESP_PUBLIC.IDENTITE_ARBRE.csv filter=lfs diff=lfs merge=lfs -text
